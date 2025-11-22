@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://discord.gg/EZ2UURzkQT">
-    <img src="https://img.shields.io/badge/merlin.xd-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/bunnyxdev-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
