@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.tenor.com/CvHneDJ-rzcAAAAi/inunaka-akari.gif"  />
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/e_26afi/">
